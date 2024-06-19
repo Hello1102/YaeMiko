@@ -1,6 +1,4 @@
-# https://github.com/Infamous-Hydra/YaeMiko
-# https://github.com/Team-ProjectCodeX
-# https://t.me/O_okarma
+
 
 # <============================================== IMPORTS =========================================================>
 from pyrogram.types import InlineKeyboardButton as ib
@@ -71,8 +69,8 @@ GROUP_START_BTN = [
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="UPDATES", url="https://t.me/+UyJhSJbyoeYxZWQ1"),
+        ib(text="SUPPORT", url="https://t.me/Mr_nobi_1"),
     ],
     [
         ib(
